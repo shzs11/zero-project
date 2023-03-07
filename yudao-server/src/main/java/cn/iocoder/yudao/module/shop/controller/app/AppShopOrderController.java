@@ -1,3 +1,4 @@
+/*
 package cn.iocoder.yudao.module.shop.controller.app;
 
 import cn.iocoder.yudao.framework.common.pojo.CommonResult;
@@ -71,3 +72,4 @@ public class AppShopOrderController {
     }
 
 }
+*/

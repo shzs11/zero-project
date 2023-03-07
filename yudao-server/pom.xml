@@ -41,6 +41,13 @@
             <artifactId>yudao-spring-boot-starter-biz-error-code</artifactId>
         </dependency>
 
+        <!--错题模块-->
+        <dependency>
+            <groupId>cn.iocoder.boot</groupId>
+            <artifactId>yudao-module-topic-biz</artifactId>
+            <version>${revision}</version>
+        </dependency>
+
         <!-- 数据报表 -->
 <!--        <dependency>-->
 <!--            <groupId>cn.iocoder.boot</groupId>-->
